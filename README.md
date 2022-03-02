@@ -1,8 +1,9 @@
 # Surfs_up
 Module 9 Challenge 
+
 Overview of The analysis: 
 This analysis is to find out if the Surf Ice Cream Shop buisness is sustaniable throughout the whole year. The months that we focused on for businesss was the month 
-of June and december to see where buisness was at as well as cost and analysis for the shop buisness. Thankfully the waether in Oahu is still decent that in the month of 
+of June and december to see where buisness was at as well as cost and analysis for the shop buisness. Thankfully the weather in Oahu is still decent that in the month of 
 december you are still able to enjoy some ice cream. 
 
 Results: 
