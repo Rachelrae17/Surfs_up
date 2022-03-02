@@ -21,8 +21,12 @@ Again  still is beautiful weather for Ice Cream.
 
 
 
+- For The study of both the months of june and december the diffrence in the "low temperature" was about a 8 degree difference from june with the average being a min of 64.0 degrees, compared to the average "low temperature" of 56.0 degrees. Eight degree diffenece in december for if its more of a cold chilly day out cold make the sales a little 
+lower that day for customers wanting to purchase Ice Cream.   
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 Summary:
+This study analysis for the Oahu Ice Cream Shop in the past eight years of data showing that the overall average of the weather throughout the years shows the average weather is in the 70.0 degrees range. The sell of ice cream is very predictable that throughout the year the customers will still purchase the ice cream requardless of what season and
+time of the year that it currently is. 
+The other objective to consider would also be the fact of how often the climate changes throughout the year on how often there are rainy days on Oahu. Most people are not craving Ice Cream or Shakes on a day that it is pooring rain out.Precipitation study would be something to consider for your sales throughout the year on what months 
+have more rain than others. 
 
-There is a high-level summary of the results and there are two additional queries to perform to gather mor
