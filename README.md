@@ -9,10 +9,11 @@ Results:
 
 -In June for the eight years that contains the data from this study the average weather was around 74.9 degrees. Beautiful weather for Ice Cream. 
 
-https://github.com/Rachelrae17/Surfs_up/issues/1#issue-1157656885
+![image](https://user-images.githubusercontent.com/95897182/156444012-2805c2ae-e904-497a-91b4-a4d077274d7b.png)
 
 
-- In December for the eight years that contains the data from this study the average weather was around 71.0 degrees. Again I still feel is beautiful weather for Ice Cream. 
+- In December for the eight years that contains the data from this study the average weather was around 71.0 degrees. 
+Again  still is beautiful weather for Ice Cream. 
 ![image](https://user-images.githubusercontent.com/95897182/156444376-59ffd298-8e51-400d-9871-3f6d552f15b2.png)
 
 
