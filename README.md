@@ -8,8 +8,7 @@ december you are still able to enjoy some ice cream.
 Results: 
 -In June for the eight years that contains the data from this study the average weather was around 74.9 degrees. Beautiful weather for Ice Cream. 
 
-
-
+https://github.com/Rachelrae17/Surfs_up/issues/1#issue-1157656885
 
 
 - In December for the eight years that contains the data from this study the average weather was around 71.0 degrees. Again I still feel is beautiful weather for Ice Cream. 
